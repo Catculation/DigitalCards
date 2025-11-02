@@ -39,4 +39,5 @@ The vision of the *Digital Collectible Trading Cards* project is to create a **t
 
 ##Contract Description
 Contact ID: CDMTX34M3HMKQD5K33TI2FVLVGIU4JMDK4QTMWP674K4CFLPWRATX333
-![alt text](image.png)
+
+![WhatsApp Image 2025-11-02 at 16 34 48_1e5a0ffc](https://github.com/user-attachments/assets/68182e24-9e13-478e-8606-c957fd59822a)
